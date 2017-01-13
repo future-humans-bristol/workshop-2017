@@ -1,8 +1,7 @@
-     
-82 lines (66 sloc)  2.2 KB
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
 <title>About page</title>.
 	<link href="animate.css" rel="stylesheet"
 	<style type="text/css"> </style>
