@@ -19,11 +19,23 @@ h2 {
 p {
     font-size: 100%; color: white;
 }
-      body {
+
+body {
 	font-size: 12px;
 	margin: 10px 40px 10px 40px;
-	}
-      }
+}
+
+p.small {
+    line-height: 20%;     
+}
+
+.indent1 {
+	text-indent: 15%;
+}
+
+.indent2 {
+	text-indent: 30%;
+}
     </style>
 
 
@@ -68,9 +80,12 @@ li a:hover {
   <li style="float:right"><a href="#contact">Contact</a></li>
   <li style="float:right"><a href="#workshop2017">Workshop 2017</a></li>
   <li style="float:right"><a href="#about">About</a></li>
+	<li style="float:right"><a href="#home">\</a></li>	
 </ul>
 
-<h1><div class="animated fadeInLeft" style="font-family: 'Kumar One', cursive;">Future</br>/Humans</br>/Bristol</div></h1>
+<h1><p class="small animated fadeInLeft" style="font-family: 'Kumar One', cursive;">&nbsp;\&nbsp;Future</p></h1>   
+<h1><p class="small indent1 animated fadeInLeft" style="font-family: 'Kumar One', cursive;">&nbsp;\&nbsp;Humans</p></h1>
+<h1><p class="small indent2 animated fadeInLeft" style="font-family: 'Kumar One', cursive;">&nbsp;\&nbsp;Bristol</p></h1>
 
 </body>
 </html>
