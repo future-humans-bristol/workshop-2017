@@ -36,6 +36,68 @@ p.small {
 .indent2 {
 	text-indent: 30%;
 }
+
+
+/* Smartphones (portrait and landscape) ———– */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ———– */
+@media only screen
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ———– */
+@media only screen
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ———– */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ———– */
+@media only screen
+and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ———– */
+@media only screen
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ———– */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
     </style>
 
 
@@ -79,7 +141,8 @@ li a:hover {
   <li style="float:right"><a href="#resources">Resources</a></li>
   <li style="float:right"><a href="#contact">Contact</a></li>
   <li style="float:right"><a href="#workshop2017">Workshop 2017</a></li>
-  <li style="float:right"><a href="#about">About</a></li>
+  <li style="float:right"><a href="https://future-humans-bristol.github.io/workshop-2017/about.html">About</a></li>
+	<li style="float:right"><a href="https://future-humans-bristol.github.io/workshop-2017/">\</a></li>	
 </ul>
 
 <h1><p class="small animated fadeInLeft" style="font-family: 'Kumar One', cursive;">&nbsp;\&nbsp;Future</p></h1>   
