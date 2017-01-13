@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About page</title>.
+	<link href="animate.css" rel="stylesheet"
+	<style type="text/css"> </style>
+        <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Kumar+One|Open+Sans" rel="stylesheet">
+
+    <style>
+h1 {
+    font-size: 1100%; color: white; line-height: 105%;
+}
+
+h2 {
+    font-size: 150%; color: white; line-height: 120%;
+}
+
+p {
+    font-size: 100%; color: white;
+}
+      body {
+	font-size: 12px;
+	margin: 10px 40px 10px 40px;
+	}
+      }
+    </style>
+
+
+
+<style>
+body {
+	background-image: url("background.png");
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Change the link color to #1EA58B (matching blue-green to background) on hover */
+li a:hover {
+    background-color: #1EA58B;
+}
+</style>
+
+</head>
+
+<body>
+
+<ul>
+  <li style="float:right"><a href="#resources">Resources</a></li>
+  <li style="float:right"><a href="#contact">Contact</a></li>
+  <li style="float:right"><a href="#workshop2017">Workshop 2017</a></li>
+  <li style="float:right"><a href="#about">About</a></li>
+</ul>
+
+<h1><div class="animated fadeInLeft" style="font-family: 'Kumar One', cursive;">\&nbsp;About</div></h1>
+<h2>What is Future Humans Bristol?</h2>
+<p>Future Humans Bristol is an academic collective from across the University of Bristol. Future Humans Bristol is a forum and cohort of researchers who study how peple and technology interact, and the future for this relationship.</p>
+
+</body>
+</html>
