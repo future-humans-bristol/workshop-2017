@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css"
+<title>Future Humans Bristol</title>.
+	<link href="animate.css" rel="stylesheet"
+	<style type="text/css"> </style>
+        <style>div.indent{ padding-left: 1.8em }</style>
+ 	<link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Kumar+One|Open+Sans" rel="stylesheet">
 
     <style>
@@ -17,13 +21,13 @@ p {
     font-size: 100%; color: white;
 }
       body {
-        font-family: 'Kumar One', cursive;
-	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
+	margin: 10px 40px 10px 40px;
+	}
       }
     </style>
 
-<title>Future Humans Bristol</title>
+
 
 <style>
 body {
@@ -47,7 +51,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: 'Kumar One', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Change the link color to #1EA58B (matching blue-green to background) on hover */
@@ -67,6 +71,9 @@ li a:hover {
   <li style="float:right"><a href="#about">About</a></li>
 </ul>
 
-<h1><div style="font-family: 'Kumar One', cursive;">Future</br>Humans</br>Bristol</div></h1>
+<h1><div class="animated fadeInLeft"; "indent" style="font-family: 'Kumar One', cursive;">Future</div></h1>
+<h1><div class="animated fadeInLeft" style="font-family: 'Kumar One', cursive;">\Humans</div></h1>
+<h1><div class="animated fadeInLeft" style="font-family: 'Kumar One', cursive;">\Bristol</div></h1>
+
 </body>
 </html>
