@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Kumar+One|Open+Sans" rel="stylesheet">
+    <style>
+h1 {
+    font-size: 1100%; color: white; line-height: 105%;
+}
+
+h2 {
+    font-size: 150%; color: white; line-height: 120%;
+}
+
+p {
+    font-size: 100%; color: white;
+}
+      body {
+        font-family: 'Kumar One', cursive;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+      }
+    </style>
+
+<title>Future Humans Bristol</title>
+
+<style>
+body {
+	background-image: url("background.png");
+}
+</style>
+
+</head>
+
+<body>
+<h1><div style="font-family: 'Kumar One', cursive;">Future</br>Humans</br>Bristol</div></h1>
+<h2><div style="font-family: 'Open Sans', sans-serif;">Future Humans Bristol is an interdisciplinary network/ cohort of postgraduate researchers who look into how humans and technology interacts, and how it will shape our future.</div></h2>
+</body>
+</html>
