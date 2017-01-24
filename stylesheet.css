@@ -22,9 +22,11 @@ p {
 body {
 	font-size: 1 em;
 	margin: 10px 40px 10px 40px;
-	background-image: url("background.png");
 	font-family: sans-serif;
 	color: white;
+	background-image: url("background.png");
+	background-position: float;
+}
 }
 
 .indent1 {
@@ -35,10 +37,6 @@ body {
 	text-indent: 30%;
 }
 
-/*site wrap*/
-.site-wrap {
-	background-image: url("background.png");
-}
 
 /*menu*/
 
@@ -61,7 +59,7 @@ li a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
 }
-*/
+
 /* Change the link color to #1EA58B (matching blue-green to background) on hover */
 li a:hover {
     background-color: #1EA58B;
