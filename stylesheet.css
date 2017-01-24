@@ -1,0 +1,61 @@
+h1 {
+    font-size: 2 em;
+	color: white;
+	line-height: 105%;
+	font-family: 'Kumar One', cursive;
+}
+
+h2 {
+    font-size: 1.5 em;
+	color: white;
+	line-height: 120%;
+}
+
+p {
+    font-size: 1 em;
+	color: white;
+}
+
+body {
+	font-size: 1 em;
+	margin: 10px 40px 10px 40px;
+	background-image: url("background.png");
+}
+
+p.small {
+    line-height: 20%;     
+}
+
+.indent1 {
+	text-indent: 15%;
+}
+
+.indent2 {
+	text-indent: 30%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Change the link color to #1EA58B (matching blue-green to background) on hover */
+li a:hover {
+    background-color: #1EA58B;
+}
+
