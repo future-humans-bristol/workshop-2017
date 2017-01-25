@@ -19,8 +19,7 @@ h1 {
 
 div.container {
 	height: 10em;
-    position: relative }
-div.container p{
+    position: relative 
     margin: 0;
     position: absolute;
     top: 50%;
@@ -46,12 +45,6 @@ p {
 	font-style: bold;
 	font-family:sans-serif;
 	line-height: 100%;
-}
-
-p.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 4em
 }
 
 span {
