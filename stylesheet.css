@@ -3,28 +3,6 @@
 	font-size:12px;
 }	
 
-h1 {
-	color: white;
-	line-height: 30%;
-	font-family: 'Kumar One', cursive;
-	font-size: 9em;
-}
-
-h2 {
-    font-size: 3em;
-	color: #31FCC3;
-	font-style: bold;
-	font-family:sans-serif;
-	line-height: 100%;
-}
-
-
-p {
-    font-size: 1em;
-	color: white;
-	font-family:sans-serif;
-}
-
 body {
 	font-size: 1em;
 	margin: 0.8em 3.5em 0.8em 3.5em;
@@ -32,6 +10,30 @@ body {
 	color: white;
 }
 
+h1 {
+	color: white;
+	line-height: 30%;
+	font-family: 'Kumar One', cursive;
+	font-size: 9em;
+}
+
+p {
+    font-size: 1em;
+	color: white;
+	font-family:sans-serif;
+}
+
+#subtitle {
+	font-size: 3em;
+	color: #31FCC3;
+	font-style: bold;
+	font-family:sans-serif;
+	line-height: 100%;
+}
+
+span {
+	color: white;
+}
 
 .spacer {
 	color: none;
