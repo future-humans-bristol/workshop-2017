@@ -29,17 +29,10 @@ body {
 	color: white;
 }
 
-div {
+.spacer {
 	color: none;
 	margin: 3em;
 }	
-
-
-.bluegreen {
-	background-repeat: no-repeat;
-	background-image: url("background.png");
-}
-
 
 /*menu*/
 
