@@ -89,7 +89,7 @@ li a:hover {
 
 @media (max-width: 767px) {
     .fullscreen-bg {
-        background-image: url ("Macro_Plex_4K_Motion_Background_Loop.jpg") center center / cover no-repeat;
+        background-image: url("Macro_Plex_4K_Motion_Background_Loop.jpg") center center / cover no-repeat;
     }
 
     .fullscreen-bg__video {
