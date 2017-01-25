@@ -7,7 +7,7 @@ h1 {
 	color: white;
 	line-height: 105%;
 	font-family: 'Kumar One', cursive;
-	font-size: 7em;
+	font-size: 12em;
 }
 
 h2 {
@@ -29,15 +29,16 @@ body {
 	color: white;
 }
 
-.bluegreen {
-	background-repeat: no-repeat;
-	background-image: url("background.png");
-}
-
 div {
 	color: none;
 	margin: 3em;
 }	
+
+
+.bluegreen {
+	background-repeat: no-repeat;
+	background-image: url("background.png");
+}
 
 
 /*menu*/
