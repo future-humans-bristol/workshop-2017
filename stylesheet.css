@@ -10,6 +10,17 @@ body {
 	color: white;
 }
 
+div.container {
+	height: 10em;
+    position: relative }
+div.container h1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
 h1 {
 	color: white;
 	line-height: 30%;
@@ -35,6 +46,12 @@ p {
 	font-style: bold;
 	font-family:sans-serif;
 	line-height: 100%;
+}
+
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 4em
 }
 
 span {
@@ -64,9 +81,9 @@ li a {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* Change the link color to #1EA58B (matching blue-green to background) on hover */
+/* Change the link color to #31FCC3 (matching blue-green to background) on hover */
 li a:hover {
-    background-color: #1EA58B;
+    background-color: #31FCC3;
 }
 
 /*background video*/
