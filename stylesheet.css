@@ -1,27 +1,30 @@
 /*fonts*/
+* {
+	font-size:12px;
+}	
 
 h1 {
-    font-size: 200 em;
+    font-size: 60em;
 	color: white;
 	line-height: 105%;
 	font-family: 'Kumar One', cursive;
 }
 
 h2 {
-    font-size: 1.5 em;
+    font-size: 1.5em;
 	color: white;
 	line-height: 120%;
 }
 
 p {
-    font-size: 1 em;
+    font-size: 1em;
 	color: white;
 	font-family:sans-serif;
 }
 
 body {
-	font-size: 1 em;
-	margin: 10px 40px 10px 40px;
+	font-size: 1em;
+	margin: 0.8em 3.5em 0.8em 3.5em;
 	font-family: sans-serif;
 	color: white;
 	background-image: url("background.png");
@@ -51,7 +54,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 1.2em 1.4em;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
 }
