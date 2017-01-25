@@ -17,6 +17,12 @@ h1 {
 	font-size: 9em;
 }
 
+
+.spacer {
+	color: none;
+	margin: 7em;
+}	
+
 p {
     font-size: 1em;
 	color: white;
@@ -35,10 +41,6 @@ span {
 	color: white;
 }
 
-.spacer {
-	color: none;
-	margin: 7em;
-}	
 
 /*menu*/
 
