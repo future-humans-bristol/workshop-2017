@@ -5,9 +5,9 @@
 
 h1 {
 	color: white;
-	line-height: 105%;
+	line-height: 80%;
 	font-family: 'Kumar One', cursive;
-	font-size: 12em;
+	font-size: 11em;
 }
 
 h2 {
@@ -31,7 +31,7 @@ body {
 
 .spacer {
 	color: none;
-	margin: 3em;
+	margin: 5em;
 }	
 
 /*menu*/
