@@ -10,23 +10,23 @@ body {
 	color: white;
 }
 
-div.container {
-	height: 10em;
-    position: relative }
-div.container h1 {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
-
 h1 {
 	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
 	font-size: 9em;
 }
+
+div.container {
+	height: 10em;
+    position: relative }
+div.container p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
 
 
 .spacer {
@@ -37,7 +37,7 @@ h1 {
 p {
     font-size: 1em;
 	color: white;
-	font-family:sans-serif;
+	font-family:Helvetica, sans-serif;
 }
 
 #bigstatement {
