@@ -5,9 +5,9 @@
 
 h1 {
 	color: white;
-	line-height: 25%;
+	line-height: 30%;
 	font-family: 'Kumar One', cursive;
-	font-size: 10em;
+	font-size: 9em;
 }
 
 h2 {
@@ -23,7 +23,7 @@ span {
 	color: #31FCC3;
 	font-style: bold;
 	font-family:sans-serif;
-	line-height: 100%;
+	font-size: 3em;
 }
 
 p {
