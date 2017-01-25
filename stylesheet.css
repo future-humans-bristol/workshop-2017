@@ -18,11 +18,11 @@ h1 {
 }
 
 div.container {
-	height: 10em;
+	height: 5em;
     position: relative 
     margin: 0;
     position: absolute;
-    top: 20%;
+    top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) }
