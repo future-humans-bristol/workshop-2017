@@ -18,8 +18,8 @@ h1 {
 }
 
 div.container {
-	height: 5em;
-    position: relative 
+	height: 1em;
+    position: relative; 
     margin: 0;
     position: absolute;
     top: 50%;
