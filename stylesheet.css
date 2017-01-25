@@ -1,7 +1,7 @@
 /*fonts*/
 
 h1 {
-    font-size: 8 em;
+    font-size: 18 em;
 	color: white;
 	line-height: 105%;
 	font-family: 'Kumar One', cursive;
@@ -25,17 +25,13 @@ body {
 	font-family: sans-serif;
 	color: white;
 	background-image: url("background.png");
-	background-position: float;
-}
-}
-
-.indent1 {
-	text-indent: 15%;
+	
 }
 
-.indent2 {
-	text-indent: 30%;
-}
+div {
+	color: none;
+	margin: 3em;
+}	
 
 
 /*menu*/
