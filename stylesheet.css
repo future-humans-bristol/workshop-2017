@@ -5,14 +5,23 @@
 
 h1 {
 	color: white;
-	line-height: 50%;
+	line-height: 20%;
 	font-family: 'Kumar One', cursive;
-	font-size: 10em;
+	font-size: 9em;
 }
 
 h2 {
     font-size: 3em;
 	color: white;
+	font-style: bold;
+	font-family:sans-serif;
+	line-height: 100%;
+}
+
+
+span {
+	color: #31FCC3;
+	font-size: 3em;
 	font-style: bold;
 	font-family:sans-serif;
 	line-height: 100%;
@@ -31,9 +40,6 @@ body {
 	color: white;
 }
 
-span {
-	color: #31FCC3;
-}
 
 .spacer {
 	color: none;
