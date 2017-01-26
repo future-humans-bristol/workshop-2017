@@ -72,6 +72,7 @@ p.kumar {
 
 span {
 	color: #31FCC3;
+	font-size: 3em;
 }
 
 
@@ -91,7 +92,7 @@ li {
 li a {
     display: block;
     color: white;
-	font-size: 3em;
+	font-size: 2em;
     text-align: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
