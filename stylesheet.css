@@ -16,7 +16,7 @@ body {
 
 /*background gradient*/
 
-.grad {
+body.grad {
     background: #0099cc; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #0099cc, #31FCC3); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #0099cc, #31FCC3); /* For Opera 11.1 to 12.0 */
@@ -24,17 +24,13 @@ body {
     background: linear-gradient(to bottom right, #0099cc, #31FCC3); /* Standard syntax */
 }
 
-h1 {
-	color: white;
-	line-height: 30%;
-	font-family: 'Kumar One', cursive;
-	font-size: 9em;
-}
  /*div container*/
 
 div.container {
 	min-height: 10em;
-	position: relative; 
+	position: relative
+}
+div.container.p {	
     margin: 0;
     position: absolute;
     top: 20%;
@@ -52,6 +48,14 @@ p {
     font-size: 1em;
 	color: white;
 	font-family:'Cabin', sans-serif;
+}
+
+
+p.kumar {
+	color: white;
+	line-height: 30%;
+	font-family: 'Kumar One', cursive;
+	font-size: 9em;
 }
 
 #bigstatement {
