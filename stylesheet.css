@@ -56,8 +56,8 @@ p.kumar {
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
 	font-size: 7.5em;
-	padding-left: 30%;
-	padding-right: 30%;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 #bigstatement {
@@ -106,9 +106,9 @@ li a:hover {
 /*columns*/
 @media (min-height:400px) {
 article {
-  -webkit-columns: 2 500px;
-     -moz-columns: 2 500px;
-          columns: 2 500px;
+  -webkit-columns: 2 200px;
+     -moz-columns: 2 200px;
+          columns: 2 200px;
   -webkit-column-gap: 4em;
      -moz-column-gap: 4em;
           column-gap: 4em;
