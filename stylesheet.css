@@ -105,9 +105,9 @@ li a:hover {
 
 /*columns*/
 article {
-  -webkit-columns: 2 300px;
-     -moz-columns: 2 300px;
-          columns: 2 300px;
+  -webkit-columns: 2 500px;
+     -moz-columns: 2 500px;
+          columns: 2 500px;
   -webkit-column-gap: 4em;
      -moz-column-gap: 4em;
           column-gap: 4em;
