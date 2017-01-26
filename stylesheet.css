@@ -63,7 +63,7 @@ p.kumar {
 	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
-	font-size: 7.5em;
+	font-size: 8em;
 	padding-left: 20%;
 	padding-right: -20%;
 }
@@ -121,16 +121,30 @@ li a:hover {
 
 /*columns*/
 @media (min-height:400px) {
-article {
-  -webkit-columns: 2 500px;
-     -moz-columns: 2 500px;
-          columns: 2 500px;
-  -webkit-column-gap: 5em;
-     -moz-column-gap: 5em;
-          column-gap: 5em;
-}
+/*article {*/
+  /*-webkit-columns: 2 500px;*/
+    /* -moz-columns: 2 500px;*/
+      /*    columns: 2 500px;*/
+  /*-webkit-column-gap: 5em;*/
+    /* -moz-column-gap: 5em;*/
+      /*    column-gap: 5em;*/
+/*}
+/*}
+
+/*.columnbackgroundcolor1 {*/
+	/*background-color: gray;*/
+/*}*/
+table {
+    width: 100%;
+	background-color: yellow;
 }
 
-.columnbackgroundcolor1 {
-	background-color: gray;
+th {
+    height: 8em;
 }
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
