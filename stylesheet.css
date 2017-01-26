@@ -140,6 +140,8 @@ div.container1.p {
     transform: translate(-50%, -50%);
 }
 
+/*two colomn layout*/
+
 .columnfill {
 	float: none;
 	padding: 20px;
@@ -150,6 +152,17 @@ div.container1.p {
 
 div.container2 {
 	display: table;
+}
+
+/*stack cells on phone*/
+
+@media screen and (max-width: 479px) {
+    div.container2 {
+        display: block;
+    }
+    .columnfill {
+        display:inline-block;
+    }
 }
 
 .columnbackgroundcolor1 {
