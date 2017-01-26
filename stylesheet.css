@@ -42,7 +42,7 @@ div.container.p {
 
 .spacer {
 	color: none;
-	margin: 7em;
+	margin: 8em;
 }	
 
 p {
@@ -68,6 +68,11 @@ p.kumar {
 	font-family:'Cabin', sans-serif;
 	line-height: 100%;
 	text-align: center;
+}
+
+span {
+	color: #31FCC3;
+	font-size: 1em;
 }
 
 
