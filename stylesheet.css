@@ -24,7 +24,7 @@ body.grad {
     background: linear-gradient(to bottom right, #004d80, #31FCC3); /* Standard syntax */
 }
 
- /*div container*/
+ /*div containers*/
 
 div.container {
 	min-height: 10em;
@@ -38,7 +38,6 @@ div.container.p {
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
-
 
 .spacer {
 	color: none;
@@ -104,5 +103,13 @@ li a:hover {
     background-color: #31FCC3;
 }
 
-
+/*columns*/
+article {
+  -webkit-columns: 2 200px;
+     -moz-columns: 2 200px;
+          columns: 2 200px;
+  -webkit-column-gap: 4em;
+     -moz-column-gap: 4em;
+          column-gap: 4em;
+}
 
