@@ -1,6 +1,15 @@
-html {
-	min-height: 100%;
+/*basics*/
+body {
+    overflow-x: auto;
+    overflow-y: scroll;
 }
+html, body {
+    min-height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
 
 /*fonts*/
 * {
