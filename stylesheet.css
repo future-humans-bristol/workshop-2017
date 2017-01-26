@@ -56,7 +56,7 @@ p.kumar {
 	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
-	font-size: 7em;
+	font-size: 7.5em;
 	padding-left: 30%;
 	padding-right: 30%;
 }
@@ -68,10 +68,6 @@ p.kumar {
 	font-family:'Cabin', sans-serif;
 	line-height: 100%;
 	text-align: center;
-}
-
-span {
-	color: #31FCC3;
 }
 
 
