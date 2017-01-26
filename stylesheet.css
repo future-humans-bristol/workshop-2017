@@ -37,7 +37,6 @@ div.container.p {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-	padding: 3em;
 }
 
 
@@ -50,6 +49,7 @@ p {
     font-size: 1em;
 	color: white;
 	font-family:'Cabin', sans-serif;
+	text-align: center;
 }
 
 
@@ -58,6 +58,7 @@ p.kumar {
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
 	font-size: 9em;
+	text-align: center;
 }
 
 #bigstatement {
@@ -66,6 +67,7 @@ p.kumar {
 	font-style: bold;
 	font-family:'Cabin', sans-serif;
 	line-height: 100%;
+	text-align: center;
 }
 
 span {
