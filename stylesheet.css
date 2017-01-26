@@ -19,7 +19,7 @@ html, body {
 body {
 	font-size: 1em;
 	/*margin: 0.8em 3.5em 0.8em 3.5em;*/
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	color: white;
 }
 
@@ -65,7 +65,7 @@ div.container2 {
 p {
     font-size: 1em;
 	color: white;
-	font-family:'Cabin', sans-serif;
+	font-family:'Ubuntu', sans-serif;
 }
 
 
@@ -82,7 +82,7 @@ p.kumar {
 	font-size: 3em;
 	color: white;
 	font-style: bold;
-	font-family:'Cabin', sans-serif;
+	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
 }
@@ -90,7 +90,7 @@ p.kumar {
 #columnbod {
 	font-size: 1.5em;
 	color: black;
-	font-family:'Cabin', sans-serif;
+	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
 }
@@ -121,7 +121,7 @@ li a {
     text-align: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 /* Change the link color to #31FCC3 (matching blue-green to background) on hover */
