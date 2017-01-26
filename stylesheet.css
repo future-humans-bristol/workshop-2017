@@ -22,7 +22,7 @@ div.container {
     position: relative; 
     margin: 0;
     position: absolute;
-    top: 10%;
+    top: 30%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) }
@@ -79,7 +79,18 @@ li a:hover {
     background-color: #31FCC3;
 }
 
-/*background video*/
+/*background gradient*/
+
+#grad {
+    background: blue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #0099cc, #31FCC3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #0099cc, #31FCC3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #0099cc, #31FCC3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #0099cc, #31FCC3); /* Standard syntax */
+}
+
+
+
 
 .fullscreen-bg {
     position: fixed;
@@ -105,14 +116,5 @@ li a:hover {
 	    transform: translate(-50%, -50%);
 }
 
-@media (max-width: 767px) {
-    .fullscreen-bg {
-        background-image: url("Macro_Plex_4K_Motion_Background_Loop.jpg") center center / cover no-repeat;
-    }
-
-    .fullscreen-bg__video {
-        display: none;
-    }
-}
 
 
