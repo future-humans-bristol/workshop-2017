@@ -52,9 +52,16 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 8em;
 	text-align: center;
-	/*padding-left: 20%;*/
-	/*padding-right: -20*/
 }
+
+p.kumarsmall {
+		color: white;
+	line-height: 30%;
+	font-family: 'Kumar One', cursive;
+	font-size: 5em;
+	text-align: center;
+}
+
 
 #bigstatement {
 	font-size: 3em;
@@ -67,10 +74,11 @@ p.kumar {
 
 #columnbod {
 	font-size: 1.5em;
-	color: black;
+	color: #31FCC3;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
+	padding: 5%
 }
 
 span {
@@ -170,20 +178,12 @@ div.container2 {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 
-/*columns*/
-/*@media (min-height:400px) {*/
-/*article {*/
-/*	margin: 0;*/
-/*  -webkit-columns: 2 600px;*/
-/*     -moz-columns: 2 600px;*/
-/*          columns: 2 600px;*/
-/*  -webkit-column-gap: 5em;*/
-/*     -moz-column-gap: 5em;*/
-/*          column-gap: 5em;*/
-/*}*/
-/*}*/
 
 .columnbackgroundcolor1 {
-	background-color: gray;
+	background-color: black;
 }
 
+
+.columnbackgroundcolor2 {
+	background-color: gray;
+}
