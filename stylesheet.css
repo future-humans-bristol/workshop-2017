@@ -134,9 +134,9 @@ div.container2 {
 @media (min-height:400px) {
 article {
 	margin: 0;
-  -webkit-columns: 2 900px;
-     -moz-columns: 2 900px;
-          columns: 2 900px;
+  -webkit-columns: 2 600px;
+     -moz-columns: 2 600px;
+          columns: 2 600px;
   -webkit-column-gap: 5em;
      -moz-column-gap: 5em;
           column-gap: 5em;
