@@ -182,15 +182,11 @@ div.container2 {
 	background-color: black;
 }
 
-.columnbackgroundcolor2 {
-	background-color: gray;
-}
-
 .columnbackgroundimage1 {
 	background-image: url("vr-image.jpg");
 	background-size: cover;
 }
 
 .spacer {
-	padding: 0.7%;
+	padding: 0.5%;
 }
