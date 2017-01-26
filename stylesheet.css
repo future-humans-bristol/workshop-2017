@@ -190,3 +190,7 @@ div.container2 {
 .columnbackgroundimage1 {
 	background-image: url("vr-image.jpg")
 }
+
+.spacer {
+	padding: 70px;
+}
