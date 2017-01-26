@@ -33,29 +33,6 @@ body.grad {
     background: linear-gradient(to bottom right, #004d80, #31FCC3); /* Standard syntax */
 }
 
- /*div containers*/
-
-div.container1 {
-	min-height: 10em;
-	position: relative
-}
-div.container1.p {	
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-}
-
-div.container2 {
-	margin-left: 0;
-	margin-right: 0;
-	min-height: 10em;
-	background-color:gray;
-}
-
-
 
 .spacer {
 	color: none;
@@ -74,8 +51,8 @@ p.kumar {
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
 	font-size: 8em;
-	padding-left: 20%;
-	padding-right: -20%;
+	padding-left: 50%;
+	padding-right: 50%;
 }
 
 #bigstatement {
@@ -127,6 +104,29 @@ li a {
 /* Change the link color to #31FCC3 (matching blue-green to background) on hover */
 li a:hover {
     background-color: #31FCC3;
+}
+
+
+ /*div containers*/
+
+div.container1 {
+	min-height: 10em;
+	position: relative
+}
+div.container1.p {	
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+div.container2 {
+	margin-left: 0;
+	margin-right: 0;
+	min-height: 10em;
+	background-color:gray;
 }
 
 /*columns*/
