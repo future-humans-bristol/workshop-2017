@@ -66,6 +66,7 @@ p.kumarsmall {
 #bigstatement {
 	font-size: 3em;
 	color: white;
+	background-color: black;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
@@ -192,5 +193,5 @@ div.container2 {
 }
 
 .spacer {
-	padding: 1em;
+	padding: 0.8em;
 }
