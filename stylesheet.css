@@ -6,7 +6,7 @@
 body {
 	font-size: 1em;
 	margin: 0.8em 3.5em 0.8em 3.5em;
-	font-family: sans-serif;
+	font-family: 'Cabin', sans-serif;
 	color: white;
 }
 
@@ -46,14 +46,14 @@ div.container {
 p {
     font-size: 1em;
 	color: white;
-	font-family:Helvetica, sans-serif;
+	font-family:'Cabin', sans-serif;
 }
 
 #bigstatement {
 	font-size: 3em;
 	color: #31FCC3;
 	font-style: bold;
-	font-family:sans-serif;
+	font-family:'Cabin', sans-serif;
 	line-height: 100%;
 }
 
@@ -81,7 +81,7 @@ li a {
     text-align: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cabin', sans-serif;
 }
 
 /* Change the link color to #31FCC3 (matching blue-green to background) on hover */
