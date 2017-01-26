@@ -51,8 +51,9 @@ p.kumar {
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
 	font-size: 8em;
-	padding-left: 20%;
-	padding-right: -20%;
+	text-align: center;
+	/*padding-left: 20%;*/
+	/*padding-right: -20*/
 }
 
 #bigstatement {
