@@ -166,15 +166,15 @@ div.container2 {
 	width: 49.2%;
 }
 
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+/*  GO FULL WIDTH AT LESS THAN 580 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 580px) {
 	.col { 
 		margin: 1% 0 1% 0%;
 	}
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 580px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 
@@ -188,5 +188,5 @@ div.container2 {
 }
 
 .columnbackgroundimage1 {
-	background-image: url("vr-image.png")
+	background-image: url("vr-image.jpg")
 }
