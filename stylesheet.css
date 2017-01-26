@@ -187,7 +187,8 @@ div.container2 {
 }
 
 .columnbackgroundimage1 {
-	background-image: url("vr-image.jpg")
+	background-image: url("vr-image.jpg");
+	background-size: cover;
 }
 
 .spacer {
