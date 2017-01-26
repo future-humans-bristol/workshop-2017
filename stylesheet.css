@@ -28,8 +28,7 @@ div {
  /*div container*/
 
 div.container {
-	height: 1em;
-    position: relative; 
+	position: relative; 
     margin: 0;
     position: absolute;
     top: 30%;
