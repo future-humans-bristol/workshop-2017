@@ -166,15 +166,15 @@ div.container2 {
 	width: 49.2%;
 }
 
-/*  GO FULL WIDTH AT LESS THAN 580 PIXELS */
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 320px) {
 	.col { 
 		margin: 1% 0 1% 0%;
 	}
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 320px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 
