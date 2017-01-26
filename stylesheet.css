@@ -78,7 +78,7 @@ p.kumarsmall {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	/*padding: 10%*/
+	padding: 10%;
 }
 
 #columnbod {
@@ -172,7 +172,7 @@ div.container2 {
 	width: 100%;
 }
 .span_1_of_2 {
-	width: 49.2%;
+	width: 50.0%;
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
