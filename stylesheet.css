@@ -55,10 +55,10 @@ p.kumar {
 }
 
 p.kumarsmall {
-		color: white;
+	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
-	font-size: 5em;
+	font-size: 4em;
 	text-align: center;
 }
 
@@ -78,7 +78,7 @@ p.kumarsmall {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 5%
+	padding: 10%
 }
 
 span {
@@ -183,7 +183,10 @@ div.container2 {
 	background-color: black;
 }
 
-
 .columnbackgroundcolor2 {
 	background-color: gray;
+}
+
+.columnbackgroundimage1 {
+	background-image: url("vr-image.png")
 }
