@@ -26,11 +26,11 @@ body.grad {
 
  /*div containers*/
 
-div.container {
+div.container1 {
 	min-height: 10em;
 	position: relative
 }
-div.container.p {	
+div.container1.p {	
     margin: 0;
     position: absolute;
     top: 50%;
@@ -38,6 +38,22 @@ div.container.p {
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
+
+div.container2 {
+	min-height: 10em;
+	position: relative;
+	background-color:yellow;
+}
+div.container2.p {	
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+
 
 .spacer {
 	color: none;
@@ -114,9 +130,9 @@ li a:hover {
 /*columns*/
 @media (min-height:400px) {
 article {
-  -webkit-columns: 2 200px;
-     -moz-columns: 2 200px;
-          columns: 2 200px;
+  -webkit-columns: 2 500px;
+     -moz-columns: 2 500px;
+          columns: 2 500px;
   -webkit-column-gap: 5em;
      -moz-column-gap: 5em;
           column-gap: 5em;
