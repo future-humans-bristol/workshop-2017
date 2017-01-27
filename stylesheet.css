@@ -98,7 +98,7 @@ p.kumarsmall {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 3% 20% 3% 20%;
+	padding: 0% 15% 0% 15%;
 }
 
 #anaglyphbody {
@@ -107,7 +107,7 @@ p.kumarsmall {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 2% 20% 2% 20%;
+	padding: 0% 15% 0% 15%;
 }
 	
 	
@@ -204,7 +204,7 @@ div.container2 {
   height: 20px;
   width: 20px;
   border-radius: 50%;
-  background-color: yellow;
+  background-color: blue;
   float: center;
   margin-left: 50%;
   margin-right: -50%;
