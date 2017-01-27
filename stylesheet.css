@@ -20,6 +20,7 @@ body {
 	font-size: 1em;
 	font-family: 'Ubuntu', sans-serif;
 	color: white;
+	text-align: center;
 }
 
 /*background gradient*/
@@ -91,22 +92,22 @@ p.kumarsmall {
 }
 
 #strongbody {
-	font-size: 1.5em;
+	font-size: 2em;
 	color: white;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 3% 30% 3% 30%;
+	padding: 3% 20% 3% 20%;
 }
 
-#anaglyphbody {
+.anaglyphbody {
 	font-size: 4em;
 	color: black;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 2% 30% 2% 30%;
+	padding: 2% 20% 2% 20%;
 }
 	
 	
