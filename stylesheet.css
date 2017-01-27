@@ -177,3 +177,10 @@ div.container2 {
 .spacer {
 	padding: 0.3%;
 }
+
+.circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: gray;
+}
