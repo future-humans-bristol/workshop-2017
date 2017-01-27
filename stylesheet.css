@@ -90,6 +90,28 @@ p.kumarsmall {
 	padding: 10%;
 }
 
+#strongbody {
+	font-size: 1.5em;
+	color: white;
+	font-style: bold;
+	font-family:'Ubuntu', sans-serif;
+	line-height: 100%;
+	text-align: center;
+	padding: 3%;
+}
+
+#anaglyphbody {
+	font-size: 1.5em;
+	color: gray;
+	font-style: bold;
+	font-family:'Ubuntu', sans-serif;
+	line-height: 100%;
+	text-align: left;
+	padding: 3%;
+}
+	
+	
+	
 span {
 	color: #31FCC3;
 	font-size: 1em;
@@ -183,4 +205,6 @@ div.container2 {
   width: 50px;
   border-radius: 50%;
   background-color: gray;
+  float: left;
+  margin: 20px;
 }
