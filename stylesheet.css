@@ -100,7 +100,7 @@ p.kumarsmall {
 	padding: 3% 10% 3% 10%;
 }
 
-p.anaglyphbody {
+#anaglyphbody {
 	font-size: 1.5em;
 	color: gray;
 	background-color: black;
