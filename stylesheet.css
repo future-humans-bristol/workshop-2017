@@ -97,12 +97,12 @@ p.kumarsmall {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 3%;
+	padding: 10%;
 }
 
-#anaglyphbody {
+p.anaglyphbody {
 	font-size: 1.5em;
-	color: gray;
+	color: black;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
