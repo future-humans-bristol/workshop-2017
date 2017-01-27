@@ -200,11 +200,10 @@ div.container2 {
 }
 
 .circle {
-  height: 50px;
-  width: 50px;
+  height: 10px;
+  width: 10px;
   border-radius: 50%;
   background-color: gray;
   float: left;
   margin: 20px;
-  padding: 10%;
 }
