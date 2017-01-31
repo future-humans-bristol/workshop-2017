@@ -178,7 +178,7 @@ div.column {
 	float: none;
 	vertical-align: center;
 	max-width: 49.99999%;
-	display: table-column;
+	display: table-cells;
 }
 
 /*
@@ -196,6 +196,7 @@ div.column {
 
 div.row {
 	display: table-row;
+	
 }
 
 .columnbackgroundimage1 {
