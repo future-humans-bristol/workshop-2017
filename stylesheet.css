@@ -151,8 +151,6 @@ li a:hover {
 
  /*About container*/
 .content{max-width:980px;margin:auto}
-
-.row-padding,.row-padding>.half,.row-padding>.third,.row-padding>.twothird,.row-padding>.threequarter,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
 .col.m6,.half{width:49.99999%}
 .image{max-width:100%;height:auto}
 
@@ -183,7 +181,9 @@ div.container1.p {
 
 .columnbackgroundimage1 {
 	background-image: url("vr-image.jpg");
-	background-size: cover;
+	/*background-size: cover;*/
+	background-size: width="600" height="750";
+	
 }
 
 
