@@ -141,46 +141,7 @@ li a {
     font-family: 'Ubuntu', sans-serif;
 }
 
-/*HOVER STUFF*/
 
-.columnbackgroundimage1 {
-	background-image: url("vr-image.jpg");
-	background-size: cover;
-	opacity: 1;
-	display: block;
-	transition: .5s ease;
-	backface-visibility: hidden;
-}
-
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
-}
-
-div.container2 {
-	display: table;
-}
-
-div.container2:hover .columnbackgroundimage1 {
-  opacity: 0.3;
-}
-
-div.container2:hover .middle {
-  opacity: 1;
-}
-
-.hovatext {
-  background-color: black;
-  color: white;
-  font-size: 16px;
-  font-family: 'Ubuntu', sans serif;
-  padding: 16px 32px;
-}
 
 /* Change the link color to #31FCC3 (matching blue-green to background) on hover */
 li a:hover {
@@ -188,7 +149,16 @@ li a:hover {
 }
 
 
- /*div containers*/
+ /*About container*/
+.content{max-width:980px;margin:auto}
+
+.row-padding,.row-padding>.half,.row-padding>.third,.row-padding>.twothird,.row-padding>.threequarter,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+.col.m6,.half{width:49.99999%}
+.padding-large{padding:12px 24px!important}.padding-xlarge{padding:16px 32px!important}
+.image{max-width:100%;height:auto}
+
+/*div containers*/
 
 div.container1 {
 	min-height: 10em;
@@ -213,7 +183,19 @@ div.container1.p {
 	display: table-cell;
 }
 
+.columnbackgroundimage1 {
+	background-image: url("vr-image.jpg");
+	background-size: cover;
+}
 
+
+div.container2 {
+	display: table;
+}
+
+.columnbackgroundcolor1 {
+	background-color: black;
+}
 
 /*stack cells on phone*/
 
@@ -226,9 +208,7 @@ div.container1.p {
     }
 }
 
-.columnbackgroundcolor1 {
-	background-color: black;
-}
+
 
 
 .spacer {
