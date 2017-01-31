@@ -170,12 +170,17 @@ div.container1.p {
 
 /*two colomn layout*/
 
+.row {
+	display: row;
+}
+
 .col {
 	float: none;
 	padding: 20px;
 	vertical-align: top;
 	width: 50%;
-	display: table-cell;
+	display: col;
+	/*display: table-cell;*/
 	width:49.99999%;
 }
 
