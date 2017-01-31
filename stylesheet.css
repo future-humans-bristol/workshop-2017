@@ -176,12 +176,10 @@ div.container1.p {
 
 .col {
 	float: none;
-	padding: 20px;
-	vertical-align: top;
+	vertical-align: center;
 	width: 50%;
 	display: col;
 	/*display: table-cell;*/
-	width:49.99999%;
 }
 
 .columnbackgroundimage1 {
