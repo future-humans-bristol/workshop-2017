@@ -143,18 +143,13 @@ li a {
 
 /*HOVER STUFF*/
 
-.container {
-    position: relative;
-    width: 50%;
-}
-
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+.columnbackgroundimage1 {
+	background-image: url("vr-image.jpg");
+	background-size: cover;
+	opacity: 1;
+	display: block;
+	transition: .5s ease;
+	backface-visibility: hidden;
 }
 
 .middle {
@@ -167,11 +162,15 @@ li a {
   -ms-transform: translate(-50%, -50%)
 }
 
-.container:hover .image {
+div.container2 {
+	display: table;
+}
+
+div.container2:hover .columnbackgroundimage1 {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+div.container2:hover .middle {
   opacity: 1;
 }
 
@@ -214,9 +213,7 @@ div.container1.p {
 	display: table-cell;
 }
 
-div.container2 {
-	display: table;
-}
+
 
 /*stack cells on phone*/
 
@@ -233,10 +230,6 @@ div.container2 {
 	background-color: black;
 }
 
-.columnbackgroundimage1 {
-	background-image: url("vr-image.jpg");
-	background-size: cover;
-}
 
 .spacer {
 	padding: 0.3%;
