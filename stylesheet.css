@@ -177,7 +177,7 @@ div.container2 {
 div.column {
 	float: none;
 	vertical-align: center;
-	width: 50%;
+	max-width: 49.99999%;
 	display: table-column;
 }
 
