@@ -149,11 +149,7 @@ li a:hover {
 }
 
 
- /*About container*/
-.content{display:table; max-width:1100px}
-.colhalf{width:49.99999%}
-.image{max-width:100%;height:auto}
-
+ 
 /*div containers*/
 
 div.container1 {
@@ -169,14 +165,18 @@ div.container1.p {
     transform: translate(-50%, -50%);
 }
 
+/*About container*/
+.image{max-width:100%;height:auto}
+
 /*two colomn layout*/
 
-.columnfill {
+.col {
 	float: none;
 	padding: 20px;
 	vertical-align: top;
 	width: 50%;
 	display: table-cell;
+	width:49.99999%;
 }
 
 .columnbackgroundimage1 {
@@ -189,6 +189,7 @@ div.container1.p {
 
 div.container2 {
 	display: table;
+	max-width:1100px;
 }
 
 .columnbackgroundcolor1 {
