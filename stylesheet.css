@@ -174,7 +174,7 @@ div.container2 {
 	
 }
 
-columnfill {
+.columnfill {
 	float: none;
 	vertical-align: center;
 	width: 50%;
