@@ -169,7 +169,6 @@ div.container1.p {
 
 div.container2 {
 	display: table;
-	max-width:100%;
 	height: auto;
 	
 }
@@ -201,9 +200,8 @@ div.row {
 
 .columnbackgroundimage1 {
 	background-image: url("vr-image.jpg");
-	background-size: cover;}
-
-
+	background-size: cover;
+}
 
 .columnbackgroundcolor1 {
 	background-color: black;
