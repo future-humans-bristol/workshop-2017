@@ -174,10 +174,8 @@ div.container2 {
 }
 
 div.column {
-	float: none;
-	vertical-align: center;
 	max-width: 49.99999%;
-	display: table-cells;
+	display: table-column;
 }
 
 /*
@@ -193,7 +191,7 @@ div.column {
 
 /*two colomn layout*/
 
-div.row {
+.row {
 	display: table-row;
 	
 }
