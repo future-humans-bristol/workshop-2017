@@ -209,14 +209,22 @@ div.container1.p {
 .columnfill {
 	float: none;
 	padding: 20px;
-	vertical-align: top;
-	width: 50%;
-	display: table-cell;
+	vertical-align: center;
+	/*width: 50%;*/
+	/*display: table-cell;*/
 }
 
 div.container2 {
 	display: table;
 }
+
+.floating-box {
+    display: inline-block;
+    max-width: 50%;
+    height: auto;
+    margin: 0px; 
+}
+
 
 /*stack cells on phone*/
 
