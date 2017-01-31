@@ -169,15 +169,10 @@ div.container1.p {
 
 div.container2 {
 	display: table;
-	height: auto;
-	-webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
-	
 }
 
 div.column {
-	display: table-column;
+	display: table-cells;
 	column-width: 50%;
 }
 
