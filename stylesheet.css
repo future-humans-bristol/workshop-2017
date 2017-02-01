@@ -54,7 +54,7 @@ p.kumar {
 	text-align: center;
 }
 
-#kumarsmall {
+p.kumarsmall {
 	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
@@ -166,22 +166,21 @@ div.container1.p {
 
 /*two column layout*/
 
-.columnfill {
-	float: none;
-	padding: 20px;
-	vertical-align: center;
-	/*width: 50%;*/
-	/*display: table-cell;*/
-}
 
-div.container2 {
-	display: table;
-}
 
 .floating-box {
     display: inline-block;
     width: 50%;
+	text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="floating-box"] {
+        width: 100%;
+    }
+}
+
 
 .columnbackgroundcolor1 {
 	background-color: black;
@@ -204,4 +203,16 @@ div.container2 {
   float: center;
   margin-left: 50%;
   margin-right: -50%;
+}
+
+.columnfill {
+	float: none;
+	padding: 20px;
+	vertical-align: center;
+	/*width: 50%;*/
+	/*display: table-cell;*/
+}
+
+div.container2 {
+	display: table;
 }
