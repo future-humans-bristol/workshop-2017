@@ -88,7 +88,7 @@ p.kumar {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 117%;
 	text-align: center;
-	padding: 10px 10px 20px 10px;
+	padding: 10px 20px 40px 20px;
 }
 
 #strongbody {
@@ -228,6 +228,7 @@ div.container1.p {
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
 	padding: 10%;
+	text-align: center;
 
 }
   
