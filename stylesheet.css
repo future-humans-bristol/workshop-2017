@@ -173,7 +173,7 @@ div.container1.p {
 
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 768px) {
 	.floating-box {
 		width: 100%;
 	}
