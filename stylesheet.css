@@ -54,7 +54,7 @@ p.kumar {
 	text-align: center;
 }
 
-p.kumarsmall {
+.kumarsmall {
 	color: white;
 	line-height: 30%;
 	font-family: 'Kumar One', cursive;
@@ -173,13 +173,11 @@ div.container1.p {
 	text-align: center;
 }
 
-@media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-        display: inline-block;
+@media screen and (max-width: 780px) {
+	.floating-box {
 		width: 100%;
-    }
+	}
 }
-
 
 .columnbackgroundcolor1 {
 	background-color: black;
