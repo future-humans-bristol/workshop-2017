@@ -169,7 +169,7 @@ div.container1.p {
 .floating-box {
     display: inline-block;
     width: 49.99999999999%;
-	margin: 0
+	margin: -1
 }
 
 @media screen and (max-width: 780px) {
