@@ -79,7 +79,7 @@ p.kumar {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
-	padding: 5%;
+	padding: 10%;
 }
 
 #columnbod {
@@ -88,7 +88,7 @@ p.kumar {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 117%;
 	text-align: center;
-	padding: 5%;
+	padding: 10%;
 }
 
 #strongbody {
@@ -168,13 +168,12 @@ div.container1.p {
 
 .floating-box {
     display: inline-block;
-    width: 49.9%;
+    width: 49.999%;
 }
 
 @media screen and (max-width: 780px) {
 	.floating-box {
 		width: 100%;
-		height: auto;
 	}
 }
 
