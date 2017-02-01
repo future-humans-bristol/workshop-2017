@@ -59,7 +59,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 5%;
+	padding: 5.5%;
 }
 
 
@@ -176,7 +176,6 @@ div.container1.p {
 @media screen and (max-width: 768px) {
 	.floating-box {
 		width: 100%;
-		margin: 0%
 	}
 }
 
