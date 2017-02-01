@@ -167,7 +167,6 @@ div.container1.p {
 /*two column layout*/
 
 
-
 .floating-box {
     display: inline-block;
     width: 50%;
@@ -176,7 +175,6 @@ div.container1.p {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    [class*="floating-box"] {
         display: inline-block;
 		width: 100%;
     }
