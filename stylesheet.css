@@ -171,6 +171,7 @@ div.container1.p {
 	position: relative;
     width: 50.1%;
 	margin: -0.1%;
+	text-align: center;
 
 }
 
@@ -189,9 +190,6 @@ div.container1.p {
 	background-size: cover;
 }
 
-.spacer {
-	padding: 0.3%;
-}
 
 /*Hover on About*/
 
@@ -229,7 +227,11 @@ div.container1.p {
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
 	padding: 10%;
-	position: relative;
+	/*position: absolute;*/
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+
 
 }
   
@@ -243,14 +245,3 @@ div.container1.p {
   margin-right: -50%;
 }
 
-.columnfill {
-	float: none;
-	padding: 20px;
-	vertical-align: center;
-	/*width: 50%;*/
-	/*display: table-cell;*/
-}
-
-div.container2 {
-	display: table;
-}
