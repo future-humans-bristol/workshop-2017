@@ -169,6 +169,7 @@ div.container1.p {
 
 
 .floating-box {
+	display: table;
     display: inline-block;
 	position: relative;
 	float:left;
@@ -249,3 +250,6 @@ div.container1.p {
   margin-right: -50%;
 }
 
+div.container2 {
+	display: table;
+}
