@@ -226,11 +226,11 @@ div.container1.p {
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
-	padding: 30% 10% 30% 10%;
-	/*position: absolute;*/
+	padding: 10%;
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
+	margin: 30% 10% 30% 10%;
 
 
 }
