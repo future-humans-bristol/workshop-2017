@@ -177,7 +177,8 @@ div.container1.p {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="floating-box"] {
-        width: 100%;
+        display: inline-block;
+		width: 100%;
     }
 }
 
