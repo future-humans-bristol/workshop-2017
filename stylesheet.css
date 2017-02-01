@@ -59,7 +59,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 10%;
+	padding: 5%;
 }
 
 
@@ -168,7 +168,7 @@ div.container1.p {
 
 .floating-box {
     display: inline-block;
-    width: 49.999%;
+    width: 30%;
 }
 
 @media screen and (max-width: 780px) {
