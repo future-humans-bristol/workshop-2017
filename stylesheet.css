@@ -170,7 +170,7 @@ div.container1.p {
 
 .floating-box {
     display: inline-block;
-	position: relative;
+	/*position: relative;*/
 	float:left;
     width: 50.1%;
 	margin: -0.1%;
