@@ -213,11 +213,11 @@ div.container1.p {
   -ms-transform: translate(-50%, -50%)*/
 }
 
-.container:hover .image {
+.floating-box:hover .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.floating-box:hover .middle {
   opacity: 1;
 }
 
