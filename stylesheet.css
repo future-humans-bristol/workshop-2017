@@ -172,8 +172,8 @@ div.container1.p {
     display: inline-block;
 	/*position: relative;*/
 	float:left;
-    width: 50.1%;
-	margin: -0.1%;
+    width: 50%;
+	/*margin: -0.1%;*/
 	text-align: center;
 	max-height: 600px;
 
