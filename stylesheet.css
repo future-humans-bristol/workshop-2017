@@ -168,6 +168,7 @@ div.container1.p {
 
 .floating-box {
     display: inline-block;
+	position: relative;
     width: 50.1%;
 	margin: -0.1%;
 
@@ -228,7 +229,7 @@ div.container1.p {
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
 	padding: 10%;
-	text-align: center;
+	position: relative;
 
 }
   
