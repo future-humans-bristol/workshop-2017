@@ -226,7 +226,7 @@ div.container1.p {
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
-	padding: 10%;
+	padding: 30% 10% 30% 10%;
 	/*position: absolute;*/
 	display: table-cell;
 	text-align: center;
