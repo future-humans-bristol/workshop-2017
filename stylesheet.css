@@ -200,7 +200,7 @@ div.container1.p {
 
 .image {
   opacity: 1;
-  display: table-cell;
+  /*display: table-cell;*/
   width: 100%;
   fit: cover;
   transition: .5s ease;
