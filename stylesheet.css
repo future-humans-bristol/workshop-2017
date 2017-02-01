@@ -88,7 +88,7 @@ p.kumar {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 117%;
 	text-align: center;
-	padding: 10%;
+	padding: 10px 10px 20px 10px;
 }
 
 #strongbody {
