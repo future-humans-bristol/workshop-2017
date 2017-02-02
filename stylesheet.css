@@ -1,4 +1,8 @@
 /*basics*/
+@-ms-viewport{
+  width: device-width;
+}
+
 body {
     overflow-x: auto;
     overflow-y: scroll;
@@ -33,11 +37,6 @@ body.grad {
     background: linear-gradient(to bottom right, #004d80, #31FCC3); /* Standard syntax */
 }
 
-
-.spacer {
-	color: none;
-	margin: 8em;
-}	
 
 p {
     font-size: 1em;
@@ -174,6 +173,7 @@ div.container1.p {
 	position: relative;
 	float:left;
     width: 50%;
+/*margin: -0.1%;*/
 	text-align: center;
 	height: 700px;
 
