@@ -1,7 +1,5 @@
 /*basics*/
-@-ms-viewport{
-  width: device-width;
-}
+
 
 body {
     overflow-x: auto;
