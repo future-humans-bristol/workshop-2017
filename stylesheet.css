@@ -90,7 +90,6 @@ p.kumar {
 	line-height: 127%;
 	text-align: center;
 	vertical-align: center;
-	/*padding: 5% 20% 90% 20%;*/
 	margin: 50px 50px 280px 50px;
 }
 
@@ -177,7 +176,7 @@ div.container1.p {
     width: 50%;
 /*margin: -0.1%;*/
 	text-align: center;
-	height: 700px;
+	height: 600px;
 
 }
 
@@ -203,8 +202,8 @@ div.container1.p {
   opacity: 1;
   /*display: table-cell;*/
   width: 100%;
-  height: 700px;
-  /*fit: cover;*/
+  height: 600px;
+  fit: cover;
   transition: .5s ease;
   backface-visibility: hidden;
 }
