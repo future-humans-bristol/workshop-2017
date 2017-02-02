@@ -70,6 +70,7 @@ p.kumar {
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
+	padding: 20%;
 }
 
 #phototext {
@@ -202,7 +203,8 @@ div.container1.p {
   opacity: 1;
   /*display: table-cell;*/
   width: 100%;
-  fit: cover;
+  height: 700px;
+  /*fit: cover;*/
   transition: .5s ease;
   backface-visibility: hidden;
 }
