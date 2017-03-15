@@ -102,7 +102,7 @@ p.kumar {
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
-	text-align: center;
+	text-align: left;
 	padding: 0% 15% 0% 15%;
 }
 
@@ -112,7 +112,7 @@ p.kumar {
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
-	text-align: center;
+	text-align: left;
 	padding: 0% 15% 10% 15%;
 }
 
