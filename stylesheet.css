@@ -99,7 +99,7 @@ p.kumar {
 	padding: 0% 15% 0% 15%;
 }
 
-#backgroundbody {
+#backbody {
 	font-size: 3em;
 	color: gray;
 	font-family:'Ubuntu', sans-serif;
@@ -132,7 +132,7 @@ li {
 li a {
     display: block;
     color: white;
-	font-size: 1em;
+	font-size: 1.5em;
     text-align: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
@@ -170,10 +170,21 @@ div.container1.p {
 	position: relative;
 	float:left;
     width: 50%;
-/*margin: -0.1%;*/
 	text-align: center;
 	height: 600px;
 
+}
+
+
+.floating-box-full {
+	display: table;
+    display: inline-block;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	height: 600px;
+	background-color: white;
+	
 }
 
 
