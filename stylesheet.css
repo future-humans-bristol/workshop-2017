@@ -34,10 +34,6 @@ body.grad {
 }
 
 
-.spacer {
-	color: none;
-	margin: 8em;
-}	
 
 p {
     font-size: 1em;
@@ -136,7 +132,7 @@ li {
 li a {
     display: block;
     color: white;
-	font-size: 2em;
+	font-size: 1em;
     text-align: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
@@ -180,11 +176,6 @@ div.container1.p {
 
 }
 
-@media screen and (max-width: 768px) {
-	.floating-box {
-		width: 100%;
-	}
-}
 
 .columnbackgroundcolor1 {
 	background-color: black;
@@ -227,12 +218,12 @@ div.container1.p {
 }
 
 .hovatext {
-  	font-size: 3em;
+  	font-size: 1.5em;
 	color: white;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
 	background-color: black;
-	padding: 10%;
+	padding: 20%;
 	display: table-cell;
 	text-align: center;
 	/*vertical-align: middle;*/
