@@ -99,9 +99,9 @@ p.kumar {
 	padding: 0% 15% 0% 15%;
 }
 
-#anaglyphbody {
+#backgroundbody {
 	font-size: 3em;
-	color: black;
+	color: gray;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 100%;
 	text-align: center;
