@@ -192,7 +192,7 @@ div.container1.p {
 
 }
 
-.floating-box-full {
+.floating-box-full-white {
 	display: table;
     display: inline-block;
 	position: relative;
@@ -203,6 +203,14 @@ div.container1.p {
 	
 }
 
+.floating-box-full {
+	display: table;
+    display: inline-block;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	height: 600px;
+}
 
 .columnbackgroundcolor1 {
 	background-color: black;
