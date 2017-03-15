@@ -58,6 +58,13 @@ p.kumar {
 	padding: 6%;
 }
 
+.kumarsmallblack {
+	color: black;
+	font-family: 'Kumar One', cursive;
+	font-size: 4em;
+	text-align: center;
+	padding: 6%;
+}
 
 #bigstatement {
 	font-size: 3em;
@@ -174,7 +181,6 @@ div.container1.p {
 	height: 600px;
 
 }
-
 
 .floating-box-full {
 	display: table;
