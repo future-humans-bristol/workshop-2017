@@ -9,13 +9,6 @@ html, body {
 	margin: 0;
 }
 
-.hidden{
-     opacity:0;
-}
-.visible{
-     opacity:1;
-}
-
 
 /*fonts*/
 * {
@@ -54,6 +47,15 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 8em;
 	text-align: center;
+}
+
+p.kumar1 {
+	color: white;
+	line-height: 30%;
+	font-family: 'Kumar One', cursive;
+	font-size: 8em;
+	text-align: center;
+	padding: 3% 0% 0% 0%
 }
 
 .kumarsmall {
