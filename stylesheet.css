@@ -50,7 +50,6 @@ p.kumar {
 }
 
 
-
 .kumarsmall {
 	color: white;
 	font-family: 'Kumar One', cursive;
@@ -76,6 +75,18 @@ p.kumar {
 	text-align: center;
 	padding: 3%;
 }
+
+
+#bigstatementbottom {
+	font-size: 3em;
+	color: white;
+	font-style: bold;
+	font-family:'Ubuntu', sans-serif;
+	line-height: 100%;
+	text-align: center;
+	padding: 3% 5% 3% 5;
+}
+
 
 #phototext {
 	font-size: 2em;
