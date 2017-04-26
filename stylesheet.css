@@ -362,7 +362,7 @@ div ul a:hover {
 }
 
 /*column list*/
-p li{
+div li{
 	display: inline-block;
     color: #31FCC3;
 	background-color: black;
