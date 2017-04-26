@@ -327,15 +327,18 @@ div.container2 {
 
 /*link button*/
 
-div ul {
+div ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    display: block;
+}
+
+div ul a{	
+	display: block;
     color: white;
 	background-color: black;
-	font-size: 1.5em;
+	font-size: 2em;
     text-align: center;
 	float: center;
     padding: 1.2em 1.4em;
@@ -344,7 +347,7 @@ div ul {
 }
 
 /* Change the link color to #31FCC3 (matching blue-green to background) on hover */
-div li a:hover {
+div ul a:hover {
     background-color: #31FCC3;
 }
 
