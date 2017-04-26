@@ -326,13 +326,13 @@ div.container2 {
 .button {
     background-color: none;
     border: none;
-    color: white;
+    color: #31FCC3;
 	padding: 15px 32px;
     text-align: center;
     text-decoration: none;
 	float: center;
 	display: inline-block;
-    font-size: 16px;
+    font-size: 2em;
 }
 
 /*link button*/
@@ -361,15 +361,3 @@ div ul a:hover {
     background-color: #31FCC3;
 }
 
-/*column list*/
-div li{
-	display: inline-block;
-    color: #31FCC3;
-	background-color: black;
-	font-size: 1.5em;
-    text-align: center;
-	float: center;
-    padding: 1.2em 1.4em;
-    text-decoration: none;
-    font-family: 'Ubuntu', sans-serif;
-}
