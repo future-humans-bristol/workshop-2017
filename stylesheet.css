@@ -35,7 +35,7 @@ body.grad {
 
 
 p {
-    font-size: 1em;
+    font-size: 3em;
 	color: white;
 	font-family:'Ubuntu', sans-serif;
 }
@@ -284,9 +284,7 @@ div.container1.p {
 	padding: 20%;
 	display: table-cell;
 	text-align: center;
-	/*vertical-align: middle;*/
 	margin: 30% 30% 30% 30%;
-
 
 }
   
@@ -302,18 +300,4 @@ div.container1.p {
 
 div.container2 {
 	display: table;
-}
-
-.button {
-    background-color: black;
-    border: white;
-    color: white;
-	font-family:'Ubuntu', sans-serif;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-	float: right;
-    display: inline-block;
-    font-size: 16px;
-	position: fixed;
 }
