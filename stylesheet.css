@@ -321,6 +321,6 @@ div.container2 {
     text-align: center;
     text-decoration: none;
 	float: center;
-	display: block;
+	display: inline-block;
     font-size: 16px;
 }
