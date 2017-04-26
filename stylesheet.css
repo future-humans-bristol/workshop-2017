@@ -335,7 +335,7 @@ div ul{
 }
 
 div ul a{	
-	display: block;
+	display: inline-block;
     color: white;
 	background-color: black;
 	font-size: 2em;
