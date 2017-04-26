@@ -55,7 +55,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 20% 6% 6% 6%;
+	padding: 30% 6% 6% 6%;
 }
 
 .kumarsmallblack {
@@ -148,6 +148,15 @@ p.kumar {
 	text-align: center;
 	padding: 2% 15% 0% 15%;
 }
+
+#backbodytop {
+	font-size: 3em;
+	color: gray;
+	font-family:'Ubuntu', sans-serif;
+	line-height: 120%;
+	text-align: center;
+	padding: 20% 15% 0% 15%;
+}
 	
 #thanks {
 	font-size: 2em;
@@ -222,7 +231,7 @@ div.container1.p {
 	float:left;
     width: 50%;
 	text-align: center;
-	height: 1000px;
+	height: 900px;
 
 }
 
@@ -232,7 +241,7 @@ div.container1.p {
 	position: relative;
 	width: 100%;
 	text-align: center;
-	height: 1000px;
+	height: 900px;
 	background-color: white;
 	
 }
@@ -243,7 +252,7 @@ div.container1.p {
 	position: relative;
 	width: 100%;
 	text-align: center;
-	height: 1000px;
+	height: 900px;
 }
 
 .columnbackgroundcolor1 {
@@ -262,7 +271,7 @@ div.container1.p {
   opacity: 1;
   /*display: table-cell;*/
   width: 100%;
-  height: 1000px;
+  height: 900px;
   fit: cover;
   transition: .5s ease;
   backface-visibility: hidden;
