@@ -35,7 +35,7 @@ body.grad {
 
 
 p {
-    font-size: 3em;
+    font-size: 2em;
 	color: white;
 	font-family:'Ubuntu', sans-serif;
 }
@@ -116,6 +116,7 @@ p.kumar {
 	line-height: 127%;
 	text-align: center;
 	vertical-align: center;
+	padding: 0% 10% 0% 10%;
 }
 
 
