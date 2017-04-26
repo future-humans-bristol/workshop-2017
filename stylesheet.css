@@ -344,6 +344,7 @@ div li a {
 	background-color: black;
 	font-size: 1.5em;
     text-align: center;
+	float: center;
     padding: 1.2em 1.4em;
     text-decoration: none;
     font-family: 'Ubuntu', sans-serif;
