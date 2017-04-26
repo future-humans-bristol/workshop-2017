@@ -66,6 +66,14 @@ p.kumar {
 	padding: 10% 1% 1% 1%;
 }
 
+.kumarsmallcontact {
+	color: white;
+	font-family: 'Kumar One', cursive;
+	font-size: 4em;
+	text-align: center;
+	padding: 30% 6% 6% 6%;
+}
+
 #bigstatement {
 	font-size: 3em;
 	color: white;
