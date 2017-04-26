@@ -332,13 +332,6 @@ div ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-}
-
-div li {
-    float: center;
-}
-
-div li a {
     display: block;
     color: white;
 	background-color: black;
