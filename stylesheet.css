@@ -63,7 +63,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 20% 1% 1% 1%;
+	padding: 15% 1% 1% 1%;
 }
 
 #bigstatement {
@@ -121,7 +121,7 @@ p.kumar {
 
 
 #strongbody {
-	font-size: 1.5em;
+	font-size: 2em;
 	color: white;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
@@ -131,7 +131,7 @@ p.kumar {
 }
 
 #strongbodyend {
-	font-size: 1.5em;
+	font-size: 2em;
 	color: white;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
@@ -141,7 +141,7 @@ p.kumar {
 }
 
 #backbody {
-	font-size: 2.5em;
+	font-size: 3em;
 	color: gray;
 	font-family:'Ubuntu', sans-serif;
 	line-height: 120%;
