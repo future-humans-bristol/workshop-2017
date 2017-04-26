@@ -55,7 +55,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 6%;
+	padding: 20% 6% 6% 6%;
 }
 
 .kumarsmallblack {
@@ -63,7 +63,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 1%;
+	padding: 20% 1% 1% 1%;
 }
 
 #bigstatement {
