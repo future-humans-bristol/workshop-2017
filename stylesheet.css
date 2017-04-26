@@ -313,13 +313,14 @@ div.container2 {
 	display: table;
 }
 
-.mailtobutton {
+.button {
     background-color: black;
     border: none;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-	float: right;
+	float: center;
+	display: inline-block;
     font-size: 16px;
 }
