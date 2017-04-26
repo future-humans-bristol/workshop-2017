@@ -55,7 +55,7 @@ p.kumar {
 	font-family: 'Kumar One', cursive;
 	font-size: 4em;
 	text-align: center;
-	padding: 40% 6% 10% 6%;
+	padding: 30% 6% 10% 6%;
 }
 
 .kumarsmallblack {
@@ -122,6 +122,7 @@ p.kumar {
 
 #strongbody {
 	font-size: 2em;
+	line-height: 127%;
 	color: white;
 	font-style: bold;
 	font-family:'Ubuntu', sans-serif;
@@ -360,3 +361,15 @@ div ul a:hover {
     background-color: #31FCC3;
 }
 
+/*column list*/
+li{
+	display: inline-block;
+    color: #31FCC3;
+	background-color: black;
+	font-size: 1.5em;
+    text-align: center;
+	float: center;
+    padding: 1.2em 1.4em;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
